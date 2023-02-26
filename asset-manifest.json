@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/slotgame/static/js/main.2715624b.js",
+    "index.html": "/slotgame/index.html",
+    "main.2715624b.js.map": "/slotgame/static/js/main.2715624b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2715624b.js"
+  ]
+}
